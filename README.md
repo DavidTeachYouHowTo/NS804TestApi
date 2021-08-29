@@ -46,6 +46,6 @@ This WebApi project is Restful and provides the following endpoints:
 A postman collection and database script is added in the project in a folder called:
 **PostmanCollectionAndDbScript**
 
-**David Valdez - Software Developer**
-**https://www.linkedin.com/in/davidisraelvaldezr/**
-**Happy testing**
+- **David Valdez - Software Developer**
+- **https://www.linkedin.com/in/davidisraelvaldezr/**
+- **Happy testing**
